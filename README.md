@@ -8,3 +8,5 @@ This is just a reminder for me:
 * Opencv lives in a conda env called cv
 * activate it by
 * source activate cv
+
+You've got to be Facebook friends with person you are running the face recog test on.
